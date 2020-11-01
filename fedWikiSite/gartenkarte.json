@@ -1,0 +1,226 @@
+{
+  "title": "Gartenkarte",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7fd069f7c08ffa54",
+      "text": "[http://gartenkarte.de/ Gartenkarte] Webkarte auf Basis von Stamens Watercolor mit den Stadtackerdaten."
+    },
+    {
+      "type": "paragraph",
+      "id": "daec6dd2a9a70fc5",
+      "text": " "
+    },
+    {
+      "type": "paragraph",
+      "id": "f470cc50932474b5",
+      "text": "[http://gartenkarte.de/gartenplane Gartenplane] Druckkarte auf Basis von Stamens Watercolor mit starken Veränderungen und schönen Tomaten"
+    },
+    {
+      "type": "paragraph",
+      "id": "3870e3fd264b375e",
+      "text": ""
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Gartenkarte"
+      },
+      "date": 1370067124112
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7fd069f7c08ffa54"
+      },
+      "id": "7fd069f7c08ffa54",
+      "type": "add",
+      "date": 1370067128263
+    },
+    {
+      "type": "edit",
+      "id": "7fd069f7c08ffa54",
+      "item": {
+        "type": "paragraph",
+        "id": "7fd069f7c08ffa54",
+        "text": "[http://gartenkarte.de/"
+      },
+      "date": 1370067138049
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "66df8dcbd962a9b8",
+        "text": ""
+      },
+      "id": "66df8dcbd962a9b8",
+      "type": "add",
+      "after": "7fd069f7c08ffa54",
+      "date": 1370067138553
+    },
+    {
+      "type": "remove",
+      "id": "66df8dcbd962a9b8",
+      "date": 1370067138977
+    },
+    {
+      "type": "edit",
+      "id": "7fd069f7c08ffa54",
+      "item": {
+        "type": "paragraph",
+        "id": "7fd069f7c08ffa54",
+        "text": "[http://gartenkarte.de/ Gartenkarte]"
+      },
+      "date": 1370067145606
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a2ca07fff9980392",
+        "text": ""
+      },
+      "id": "a2ca07fff9980392",
+      "type": "add",
+      "after": "7fd069f7c08ffa54",
+      "date": 1370067146109
+    },
+    {
+      "type": "remove",
+      "id": "a2ca07fff9980392",
+      "date": 1370067149229
+    },
+    {
+      "type": "edit",
+      "id": "7fd069f7c08ffa54",
+      "item": {
+        "type": "paragraph",
+        "id": "7fd069f7c08ffa54",
+        "text": "[http://gartenkarte.de/ Gartenkarte] </ br> [http://gartenkarte.de/gartenplane Gartenplane]"
+      },
+      "date": 1370067166581
+    },
+    {
+      "type": "edit",
+      "id": "7fd069f7c08ffa54",
+      "item": {
+        "type": "paragraph",
+        "id": "7fd069f7c08ffa54",
+        "text": "[http://gartenkarte.de/ Gartenkarte]"
+      },
+      "date": 1370067179849
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "daec6dd2a9a70fc5",
+        "text": "[http://gartenkarte.de/gartenplane Gartenplane]"
+      },
+      "id": "daec6dd2a9a70fc5",
+      "type": "add",
+      "after": "7fd069f7c08ffa54",
+      "date": 1370067180353
+    },
+    {
+      "type": "edit",
+      "id": "daec6dd2a9a70fc5",
+      "item": {
+        "type": "paragraph",
+        "id": "daec6dd2a9a70fc5",
+        "text": " "
+      },
+      "date": 1370067181264
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f470cc50932474b5",
+        "text": "[http://gartenkarte.de/gartenplane Gartenplane]"
+      },
+      "id": "f470cc50932474b5",
+      "type": "add",
+      "after": "daec6dd2a9a70fc5",
+      "date": 1370067181768
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8fe51490892f35aa",
+        "text": ""
+      },
+      "id": "8fe51490892f35aa",
+      "type": "add",
+      "after": "daec6dd2a9a70fc5",
+      "date": 1370067181769
+    },
+    {
+      "type": "remove",
+      "id": "8fe51490892f35aa",
+      "date": 1370067183289
+    },
+    {
+      "type": "edit",
+      "id": "7fd069f7c08ffa54",
+      "item": {
+        "type": "paragraph",
+        "id": "7fd069f7c08ffa54",
+        "text": "[http://gartenkarte.de/ Gartenkarte] Webkarte auf Basis von Stamens Watercolor mit den Stadtackerdaten."
+      },
+      "date": 1370067285625
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8449923fa6e4d868",
+        "text": ""
+      },
+      "id": "8449923fa6e4d868",
+      "type": "add",
+      "after": "7fd069f7c08ffa54",
+      "date": 1370067286129
+    },
+    {
+      "type": "remove",
+      "id": "8449923fa6e4d868",
+      "date": 1370067288787
+    },
+    {
+      "type": "edit",
+      "id": "f470cc50932474b5",
+      "item": {
+        "type": "paragraph",
+        "id": "f470cc50932474b5",
+        "text": "[http://gartenkarte.de/gartenplane Gartenplane] Druckkarte auf Basis von Stamens Watercolor mit starken Veränderungen und schönen Tomaten"
+      },
+      "date": 1370067311869
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d33a69efb218e04e",
+        "text": ""
+      },
+      "id": "d33a69efb218e04e",
+      "type": "add",
+      "after": "f470cc50932474b5",
+      "date": 1370067312374
+    },
+    {
+      "type": "remove",
+      "id": "d33a69efb218e04e",
+      "date": 1370067313936
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3870e3fd264b375e",
+        "text": ""
+      },
+      "id": "3870e3fd264b375e",
+      "type": "add",
+      "after": "f470cc50932474b5",
+      "date": 1370067316373
+    }
+  ]
+}
