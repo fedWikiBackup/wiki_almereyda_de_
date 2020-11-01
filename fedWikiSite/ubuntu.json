@@ -1,0 +1,102 @@
+{
+  "title": "ubuntu",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "358f514cebc10bf3",
+      "text": "GNOME 3.8"
+    },
+    {
+      "type": "paragraph",
+      "id": "0d85d597891bf5e5",
+      "text": "Multimonitorfix"
+    },
+    {
+      "type": "code",
+      "id": "9636f3a1edb0d5ee",
+      "text": "gsettings set org.gnome.shell.overrides workspaces-only-on-primary false"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "ubuntu"
+      },
+      "date": 1373143521924
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9eaf3a61b2c81146"
+      },
+      "id": "9eaf3a61b2c81146",
+      "type": "add",
+      "date": 1373143526302
+    },
+    {
+      "type": "remove",
+      "id": "9eaf3a61b2c81146",
+      "date": 1373143531611
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "358f514cebc10bf3"
+      },
+      "id": "358f514cebc10bf3",
+      "type": "add",
+      "date": 1373143545405
+    },
+    {
+      "type": "edit",
+      "id": "358f514cebc10bf3",
+      "item": {
+        "type": "pagefold",
+        "id": "358f514cebc10bf3",
+        "text": "GNOME 3.8"
+      },
+      "date": 1373143552660
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0d85d597891bf5e5"
+      },
+      "id": "0d85d597891bf5e5",
+      "type": "add",
+      "after": "358f514cebc10bf3",
+      "date": 1373143553677
+    },
+    {
+      "type": "edit",
+      "id": "0d85d597891bf5e5",
+      "item": {
+        "type": "paragraph",
+        "id": "0d85d597891bf5e5",
+        "text": "Multimonitorfix"
+      },
+      "date": 1373143567416
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9636f3a1edb0d5ee"
+      },
+      "id": "9636f3a1edb0d5ee",
+      "type": "add",
+      "after": "0d85d597891bf5e5",
+      "date": 1373143583845
+    },
+    {
+      "type": "edit",
+      "id": "9636f3a1edb0d5ee",
+      "item": {
+        "type": "code",
+        "id": "9636f3a1edb0d5ee",
+        "text": "gsettings set org.gnome.shell.overrides workspaces-only-on-primary false"
+      },
+      "date": 1373143587812
+    }
+  ]
+}
