@@ -1,0 +1,155 @@
+{
+  "title": "tenement yard",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "2c442025795a0a50",
+      "text": "[[Lineups]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "583e93c7b72ddc7c",
+      "text": "[[Transporters]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "57418b8941a8ac4c",
+      "text": "[[Pages]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "tenement yard",
+        "story": []
+      },
+      "date": 1483373317695
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ecc92fe7c805fdf8"
+      },
+      "id": "ecc92fe7c805fdf8",
+      "type": "add",
+      "date": 1483373324996
+    },
+    {
+      "type": "edit",
+      "id": "ecc92fe7c805fdf8",
+      "item": {
+        "type": "reference",
+        "id": "ecc92fe7c805fdf8",
+        "site": "journal.hapgood.net",
+        "slug": "paradoxical-uniqueness",
+        "title": "paradoxical uniqueness",
+        "text": "This term was originally used by Braudy to discuss the history of painting the aristocracy with the aim of showing how their natural authority within democracy came from looking just like everyone else, while not being like anyone else at all."
+      },
+      "date": 1483373329272
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2c442025795a0a50"
+      },
+      "id": "2c442025795a0a50",
+      "type": "add",
+      "after": "ecc92fe7c805fdf8",
+      "date": 1483373352265
+    },
+    {
+      "type": "edit",
+      "id": "2c442025795a0a50",
+      "item": {
+        "type": "paragraph",
+        "id": "2c442025795a0a50",
+        "text": "[[Lineups]]"
+      },
+      "date": 1483373358716
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "583e93c7b72ddc7c"
+      },
+      "id": "583e93c7b72ddc7c",
+      "type": "add",
+      "after": "2c442025795a0a50",
+      "date": 1483387127129
+    },
+    {
+      "type": "edit",
+      "id": "583e93c7b72ddc7c",
+      "item": {
+        "type": "paragraph",
+        "id": "583e93c7b72ddc7c",
+        "text": "[[Transporters]]"
+      },
+      "date": 1483387141908
+    },
+    {
+      "type": "move",
+      "order": [
+        "2c442025795a0a50",
+        "583e93c7b72ddc7c",
+        "ecc92fe7c805fdf8"
+      ],
+      "id": "ecc92fe7c805fdf8",
+      "date": 1483390979309
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e7846b494681fde7"
+      },
+      "id": "e7846b494681fde7",
+      "type": "add",
+      "after": "ecc92fe7c805fdf8",
+      "date": 1483390982000
+    },
+    {
+      "type": "edit",
+      "id": "e7846b494681fde7",
+      "item": {
+        "type": "reference",
+        "id": "e7846b494681fde7",
+        "site": "ward.fed.wiki.org",
+        "slug": "personas",
+        "title": "Personas",
+        "text": "We'll be developing and refining personas who will be the imagined actors as we develop more advanced uses cases. (Shift-click to see multiple personas.)"
+      },
+      "date": 1483390991139
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "57418b8941a8ac4c"
+      },
+      "id": "57418b8941a8ac4c",
+      "type": "add",
+      "after": "e7846b494681fde7",
+      "date": 1483549845905
+    },
+    {
+      "type": "edit",
+      "id": "57418b8941a8ac4c",
+      "item": {
+        "type": "paragraph",
+        "id": "57418b8941a8ac4c",
+        "text": "[[Pages]]"
+      },
+      "date": 1483549850795
+    },
+    {
+      "type": "remove",
+      "id": "ecc92fe7c805fdf8",
+      "date": 1483549857911
+    },
+    {
+      "type": "remove",
+      "id": "e7846b494681fde7",
+      "date": 1483549859873
+    }
+  ]
+}
