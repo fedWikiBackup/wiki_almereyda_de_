@@ -1,0 +1,313 @@
+{
+  "title": "Historic Tidbits",
+  "story": [
+    {
+      "type": "reference",
+      "id": "34a12a29b3394ae4",
+      "site": "tug.fed.wiki.org",
+      "slug": "federated-wiki-at-one",
+      "title": "Federated Wiki at One",
+      "text": "In one year we've converted vague notions of a new wiki into a working software platform with sufficient plugins to meet a demanding open-data application. Here we reflect on this experience from a software development perspective."
+    },
+    {
+      "type": "reference",
+      "id": "57e5fddde0a893c1",
+      "site": "wikiduino.fed.wiki.org",
+      "slug": "community-garden",
+      "title": "Community Garden",
+      "text": "Welcome to the federated wiki. This page was first drafted Sunday, June 26th, 2011, at Indie Web Camp. You are welcome to copy this page to any server you own and revise its welcoming message as you see fit. You can assume this has happened many times already."
+    },
+    {
+      "type": "paragraph",
+      "id": "5022b008b5dfdcbe",
+      "text": "After regaining access to historic wikis, the logs give intricate knowledge about my earliest commits to this federated data space."
+    },
+    {
+      "type": "paragraph",
+      "id": "94bb4a03080e1c72",
+      "text": "[http://wiki.almereyda.de/view/welcome-visitors_rev1 Almereyda-Wiki], Sat Dec 15, 2012\n1:49:40 AM"
+    },
+    {
+      "type": "paragraph",
+      "id": "01624a67a806e70f",
+      "text": "[http://r.chn.io/view/welcome-visitors_rev1 Relationautica], Tue Sep 10, 2013\n4:38:23 PM"
+    },
+    {
+      "type": "paragraph",
+      "id": "748b71a890efb277",
+      "text": "[http://w.chn.io/view/welcome-visitors_rev30 cybernetics], Mon Sep 16, 2013\n11:08:39 PM"
+    },
+    {
+      "type": "paragraph",
+      "id": "61bef226755aa9af",
+      "text": "[http://g.chn.io/view/welcome-visitors_rev32 Gartenkarte], Sat Nov 2, 2013\n1:23:42 PM"
+    },
+    {
+      "type": "paragraph",
+      "id": "8948748faf3bbacb",
+      "text": "[http://yala.fed.wiki.org/welcome-visitors_rev30 Jon Richter], Thu Nov 21, 2013\n12:26:09 AM"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Historic Tidbits",
+        "story": []
+      },
+      "date": 1483388256567
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "34a12a29b3394ae4"
+      },
+      "id": "34a12a29b3394ae4",
+      "type": "add",
+      "date": 1483388258247
+    },
+    {
+      "type": "edit",
+      "id": "34a12a29b3394ae4",
+      "item": {
+        "type": "reference",
+        "id": "34a12a29b3394ae4",
+        "site": "tug.fed.wiki.org",
+        "slug": "federated-wiki-at-one",
+        "title": "Federated Wiki at One",
+        "text": "In one year we've converted vague notions of a new wiki into a working software platform with sufficient plugins to meet a demanding open-data application. Here we reflect on this experience from a software development perspective."
+      },
+      "date": 1483388264033
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5b009b0134a936a0"
+      },
+      "id": "5b009b0134a936a0",
+      "type": "add",
+      "after": "34a12a29b3394ae4",
+      "date": 1483388265865
+    },
+    {
+      "type": "remove",
+      "id": "5b009b0134a936a0",
+      "date": 1483388390321
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "57e5fddde0a893c1"
+      },
+      "id": "57e5fddde0a893c1",
+      "type": "add",
+      "after": "34a12a29b3394ae4",
+      "date": 1483388394178
+    },
+    {
+      "type": "edit",
+      "id": "57e5fddde0a893c1",
+      "item": {
+        "type": "reference",
+        "id": "57e5fddde0a893c1",
+        "site": "wikiduino.fed.wiki.org",
+        "slug": "community-garden",
+        "title": "Community Garden",
+        "text": "Welcome to the federated wiki. This page was first drafted Sunday, June 26th, 2011, at Indie Web Camp. You are welcome to copy this page to any server you own and revise its welcoming message as you see fit. You can assume this has happened many times already."
+      },
+      "date": 1483389478356
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5022b008b5dfdcbe"
+      },
+      "id": "5022b008b5dfdcbe",
+      "type": "add",
+      "after": "57e5fddde0a893c1",
+      "date": 1483389491412
+    },
+    {
+      "type": "edit",
+      "id": "5022b008b5dfdcbe",
+      "item": {
+        "type": "paragraph",
+        "id": "5022b008b5dfdcbe",
+        "text": "After regaining access to historic wikis, the logs give intricate knowledge about early commits to this federated data space."
+      },
+      "date": 1483389547932
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "94bb4a03080e1c72"
+      },
+      "id": "94bb4a03080e1c72",
+      "type": "add",
+      "after": "5022b008b5dfdcbe",
+      "date": 1483389555695
+    },
+    {
+      "type": "edit",
+      "id": "94bb4a03080e1c72",
+      "item": {
+        "type": "paragraph",
+        "id": "94bb4a03080e1c72",
+        "text": "[http://wiki.almereyda.de/view/welcome-visitors/view/welcome-visitors_rev1 Almereyda-Wiki]"
+      },
+      "date": 1483389566663
+    },
+    {
+      "type": "edit",
+      "id": "94bb4a03080e1c72",
+      "item": {
+        "type": "paragraph",
+        "id": "94bb4a03080e1c72",
+        "text": "[http://wiki.almereyda.de/view/welcome-visitors/view/welcome-visitors_rev1 Almereyda-Wiki], Sat Dec 15, 2012\n1:49:40 AM"
+      },
+      "date": 1483389574581
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "01624a67a806e70f"
+      },
+      "id": "01624a67a806e70f",
+      "type": "add",
+      "after": "94bb4a03080e1c72",
+      "date": 1483389581394
+    },
+    {
+      "type": "edit",
+      "id": "01624a67a806e70f",
+      "item": {
+        "type": "paragraph",
+        "id": "01624a67a806e70f",
+        "text": "[http://r.chn.io/view/welcome-visitors/view/welcome-visitors_rev1 Relationautica]"
+      },
+      "date": 1483389592252
+    },
+    {
+      "type": "edit",
+      "id": "01624a67a806e70f",
+      "item": {
+        "type": "paragraph",
+        "id": "01624a67a806e70f",
+        "text": "[http://r.chn.io/view/welcome-visitors/view/welcome-visitors_rev1 Relationautica], Tue Sep 10, 2013\n4:38:23 PM"
+      },
+      "date": 1483389601107
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "748b71a890efb277"
+      },
+      "id": "748b71a890efb277",
+      "type": "add",
+      "after": "01624a67a806e70f",
+      "date": 1483389610808
+    },
+    {
+      "type": "edit",
+      "id": "748b71a890efb277",
+      "item": {
+        "type": "paragraph",
+        "id": "748b71a890efb277",
+        "text": "[http://w.chn.io/view/welcome-visitors_rev30 cybernetics]"
+      },
+      "date": 1483389629253
+    },
+    {
+      "type": "edit",
+      "id": "01624a67a806e70f",
+      "item": {
+        "type": "paragraph",
+        "id": "01624a67a806e70f",
+        "text": "[http://r.chn.io/view/welcome-visitors_rev1 Relationautica], Tue Sep 10, 2013\n4:38:23 PM"
+      },
+      "date": 1483389635978
+    },
+    {
+      "type": "edit",
+      "id": "94bb4a03080e1c72",
+      "item": {
+        "type": "paragraph",
+        "id": "94bb4a03080e1c72",
+        "text": "[http://wiki.almereyda.de/view/welcome-visitors_rev1 Almereyda-Wiki], Sat Dec 15, 2012\n1:49:40 AM"
+      },
+      "date": 1483389643590
+    },
+    {
+      "type": "edit",
+      "id": "748b71a890efb277",
+      "item": {
+        "type": "paragraph",
+        "id": "748b71a890efb277",
+        "text": "[http://w.chn.io/view/welcome-visitors_rev30 cybernetics], Mon Sep 16, 2013\n11:08:39 PM"
+      },
+      "date": 1483389651969
+    },
+    {
+      "type": "add",
+      "id": "61bef226755aa9af",
+      "item": {
+        "type": "paragraph",
+        "id": "61bef226755aa9af",
+        "text": "[http://g.chn.io/view/welcome-visitors/view/welcome-visitors_rev31]"
+      },
+      "after": "748b71a890efb277",
+      "date": 1483389706898
+    },
+    {
+      "type": "edit",
+      "id": "61bef226755aa9af",
+      "item": {
+        "type": "paragraph",
+        "id": "61bef226755aa9af",
+        "text": "[http://g.chn.io/view/welcome-visitors_rev32 Gartenkarte]"
+      },
+      "date": 1483389748314
+    },
+    {
+      "type": "edit",
+      "id": "61bef226755aa9af",
+      "item": {
+        "type": "paragraph",
+        "id": "61bef226755aa9af",
+        "text": "[http://g.chn.io/view/welcome-visitors_rev32 Gartenkarte], Sat Nov 2, 2013\n1:23:42 PM"
+      },
+      "date": 1483389757847
+    },
+    {
+      "type": "add",
+      "id": "8948748faf3bbacb",
+      "item": {
+        "type": "paragraph",
+        "id": "8948748faf3bbacb",
+        "text": "[http://yala.fed.wiki.org/welcome-visitors_rev30 Jon Richter]"
+      },
+      "after": "61bef226755aa9af",
+      "date": 1483389789243
+    },
+    {
+      "type": "edit",
+      "id": "8948748faf3bbacb",
+      "item": {
+        "type": "paragraph",
+        "id": "8948748faf3bbacb",
+        "text": "[http://yala.fed.wiki.org/welcome-visitors_rev30 Jon Richter], Thu Nov 21, 2013\n12:26:09 AM"
+      },
+      "date": 1483389797601
+    },
+    {
+      "type": "edit",
+      "id": "5022b008b5dfdcbe",
+      "item": {
+        "type": "paragraph",
+        "id": "5022b008b5dfdcbe",
+        "text": "After regaining access to historic wikis, the logs give intricate knowledge about my earliest commits to this federated data space."
+      },
+      "date": 1483389859398
+    }
+  ]
+}

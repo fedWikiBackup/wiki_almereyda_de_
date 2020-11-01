@@ -1,0 +1,306 @@
+{
+  "title": "geosemantik.de",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3cf52ceac68a46e0",
+      "text": "Die Idee der Geosemantik beschäftigt mich seit einer Weile. Konkrete Nutzfelder scheinen sich im Spannungsfeld von Linked Geodata, Online Kollaboration und Wissensphilosophie anzudeuten."
+    },
+    {
+      "type": "paragraph",
+      "id": "80bdab1faa81543d",
+      "text": "Aktive Projekte sind:"
+    },
+    {
+      "type": "paragraph",
+      "id": "c0c2a99760b27162",
+      "text": "[[publicspaceinvaders.org]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "8f10ee596465c0e3",
+      "text": "[[alpha.publicspaceinvaders.org]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "807742d3d9300dcb",
+      "text": "[http://w.chn.io/view/welcome-visitors/view/gartenkarte gartenkarte]"
+    },
+    {
+      "type": "paragraph",
+      "id": "8b9ce2ab4bac2d00",
+      "text": "[[blog.gartenkarte.de]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ad312b86d64bb1eb",
+      "text": "[[blog.geosemantik.de]]"
+    },
+    {
+      "type": "factory",
+      "id": "d844f26f4b1110f0"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "geosemantik.de"
+      },
+      "date": 1381891325052
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3cf52ceac68a46e0"
+      },
+      "id": "3cf52ceac68a46e0",
+      "type": "add",
+      "date": 1381891327216
+    },
+    {
+      "type": "edit",
+      "id": "3cf52ceac68a46e0",
+      "item": {
+        "type": "paragraph",
+        "id": "3cf52ceac68a46e0",
+        "text": "Die Idee der Geosemantik beschäftigt mich seit einer Weile. Konkrete Nutzfelder scheinen sich im Spannungsfeld von Linked Geodata, Online Kollaboration und Wissensphilosophie anzudeuten."
+      },
+      "date": 1381891426402
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "80bdab1faa81543d",
+        "text": ""
+      },
+      "id": "80bdab1faa81543d",
+      "type": "add",
+      "after": "3cf52ceac68a46e0",
+      "date": 1381891426905
+    },
+    {
+      "type": "edit",
+      "id": "80bdab1faa81543d",
+      "item": {
+        "type": "paragraph",
+        "id": "80bdab1faa81543d",
+        "text": "Aktive Projekte sind:"
+      },
+      "date": 1381891433104
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c0c2a99760b27162",
+        "text": ""
+      },
+      "id": "c0c2a99760b27162",
+      "type": "add",
+      "after": "80bdab1faa81543d",
+      "date": 1381891433608
+    },
+    {
+      "type": "edit",
+      "id": "c0c2a99760b27162",
+      "item": {
+        "type": "paragraph",
+        "id": "c0c2a99760b27162",
+        "text": "[[publicspaceinvaders.org]]"
+      },
+      "date": 1381891439625
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8f10ee596465c0e3",
+        "text": ""
+      },
+      "id": "8f10ee596465c0e3",
+      "type": "add",
+      "after": "c0c2a99760b27162",
+      "date": 1381891440129
+    },
+    {
+      "type": "edit",
+      "id": "8f10ee596465c0e3",
+      "item": {
+        "type": "paragraph",
+        "id": "8f10ee596465c0e3",
+        "text": "[[alpha.publicspaceinvaders.org]]"
+      },
+      "date": 1381891446631
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "807742d3d9300dcb",
+        "text": ""
+      },
+      "id": "807742d3d9300dcb",
+      "type": "add",
+      "after": "8f10ee596465c0e3",
+      "date": 1381891447134
+    },
+    {
+      "type": "edit",
+      "id": "807742d3d9300dcb",
+      "item": {
+        "type": "paragraph",
+        "id": "807742d3d9300dcb",
+        "text": "[[gartenkarte.de]]"
+      },
+      "date": 1381891455986
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8b9ce2ab4bac2d00",
+        "text": ""
+      },
+      "id": "8b9ce2ab4bac2d00",
+      "type": "add",
+      "after": "807742d3d9300dcb",
+      "date": 1381891456492
+    },
+    {
+      "type": "edit",
+      "id": "8b9ce2ab4bac2d00",
+      "item": {
+        "type": "paragraph",
+        "id": "8b9ce2ab4bac2d00",
+        "text": "[[blog.gartenkarte.de]]"
+      },
+      "date": 1381891461792
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b20efaba25ec4ef1",
+        "text": ""
+      },
+      "id": "b20efaba25ec4ef1",
+      "type": "add",
+      "after": "8b9ce2ab4bac2d00",
+      "date": 1381891462295
+    },
+    {
+      "type": "remove",
+      "id": "b20efaba25ec4ef1",
+      "date": 1381891474014
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ad312b86d64bb1eb",
+        "text": ""
+      },
+      "id": "ad312b86d64bb1eb",
+      "type": "add",
+      "after": "8b9ce2ab4bac2d00",
+      "date": 1381953153979
+    },
+    {
+      "type": "edit",
+      "id": "ad312b86d64bb1eb",
+      "item": {
+        "type": "paragraph",
+        "id": "ad312b86d64bb1eb",
+        "text": "[[blog.geosemantik.de]]"
+      },
+      "date": 1381953159233
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2eb15c4778275111",
+        "text": ""
+      },
+      "id": "2eb15c4778275111",
+      "type": "add",
+      "after": "ad312b86d64bb1eb",
+      "date": 1381953159735
+    },
+    {
+      "type": "remove",
+      "id": "2eb15c4778275111",
+      "date": 1381953162488
+    },
+    {
+      "type": "edit",
+      "id": "807742d3d9300dcb",
+      "item": {
+        "type": "paragraph",
+        "id": "807742d3d9300dcb",
+        "text": "[http://w.chn.io/view/welcome-visitors/view/gartenkarte]"
+      },
+      "date": 1382209073705
+    },
+    {
+      "type": "edit",
+      "id": "807742d3d9300dcb",
+      "item": {
+        "type": "paragraph",
+        "id": "807742d3d9300dcb",
+        "text": "[http://w.chn.io/view/welcome-visitors/view/gartenkarte](gartenkarte)"
+      },
+      "date": 1382209081455
+    },
+    {
+      "type": "edit",
+      "id": "807742d3d9300dcb",
+      "item": {
+        "type": "paragraph",
+        "id": "807742d3d9300dcb",
+        "text": "[gartenkarte http://w.chn.io/view/welcome-visitors/view/gartenkarte]"
+      },
+      "date": 1382209094250
+    },
+    {
+      "type": "edit",
+      "id": "807742d3d9300dcb",
+      "item": {
+        "type": "paragraph",
+        "id": "807742d3d9300dcb",
+        "text": "[[gartenkarte http://w.chn.io/view/welcome-visitors/view/gartenkarte]]"
+      },
+      "date": 1382209101134
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c428996f7c3cd701",
+        "text": ""
+      },
+      "id": "c428996f7c3cd701",
+      "type": "add",
+      "after": "807742d3d9300dcb",
+      "date": 1382209101640
+    },
+    {
+      "type": "remove",
+      "id": "c428996f7c3cd701",
+      "date": 1382209109785
+    },
+    {
+      "type": "edit",
+      "id": "807742d3d9300dcb",
+      "item": {
+        "type": "paragraph",
+        "id": "807742d3d9300dcb",
+        "text": "[http://w.chn.io/view/welcome-visitors/view/gartenkarte gartenkarte]"
+      },
+      "date": 1382209278644
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d844f26f4b1110f0"
+      },
+      "id": "d844f26f4b1110f0",
+      "type": "add",
+      "after": "ad312b86d64bb1eb",
+      "date": 1382209394443
+    }
+  ]
+}

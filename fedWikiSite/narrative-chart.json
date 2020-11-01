@@ -1,0 +1,169 @@
+{
+  "title": "Narrative Chart",
+  "story": [
+    {
+      "type": "reference",
+      "id": "1a0248461b2df593",
+      "site": "fedwiki.rodwell.me",
+      "slug": "visualizing-page-history",
+      "title": "Visualizing Page History",
+      "text": "As can be seen by [[Understanding Page History]] this can be complex, containing differing view points - and maybe realities."
+    },
+    {
+      "type": "reference",
+      "id": "deb746642f59f6c9",
+      "site": "fedwikihappening.rodwell.me",
+      "slug": "identity-and-provenance",
+      "title": "Identity and Provenance",
+      "text": "[[Forking as (cultural) feature]] raised issues of identity and provenance.\n<p>\nWe can see that frances.uk.fedwikihappening.net created the page and directory.fedwikihappening.net forked it, adding commentary. Finding out that frances is [[Frances Bell]], or that directory.fedwikihappings.net is [[Mike Caulfield]], is [[Discoverable but not Obvious]].\n<p>\nFedWiki's neighborhood boundaries are vague and dynamic. But everybody owns their stuff in this network. When should that ownership be more, or less, obvious? \n\n\n"
+    },
+    {
+      "type": "reference",
+      "id": "3b8231552bd529d7",
+      "site": "journal.hapgood.net",
+      "slug": "identity-and-provenance",
+      "title": "Identity and Provenance",
+      "text": "A page with 10 items."
+    },
+    {
+      "type": "reference",
+      "id": "e3f4a314819735f7",
+      "site": "journal.hapgood.net",
+      "slug": "identity-and-provenance-talk-page",
+      "title": "Identity and Provenance Talk Page",
+      "text": "[[Mike Caulfield]]: Jon, I like this experiment. Of course we'll end up with many different talk pages with 90% overlap, but I think that's OK. I tend to think of conversation here as being like Twitter where it's fine if you see only a portion of the conversation. Forking will always allow you to see what an individual is responding to on a page, which is the main thing."
+    },
+    {
+      "type": "reference",
+      "id": "f1bd83b3c390c6a8",
+      "site": "frances.uk.fedwikihappening.net",
+      "slug": "discoverable-but-not-obvious",
+      "title": "Discoverable but not Obvious",
+      "text": "Identity and citation has to be discoverable -- that's part of the deal, the BY in the CC-BY-SA. But it does not follow that citation should be obvious. In fact, there are many reasons to to background citation."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Narrative Chart",
+        "story": []
+      },
+      "date": 1483373393961
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1a0248461b2df593"
+      },
+      "id": "1a0248461b2df593",
+      "type": "add",
+      "date": 1483373402234
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "deb746642f59f6c9"
+      },
+      "id": "deb746642f59f6c9",
+      "type": "add",
+      "after": "1a0248461b2df593",
+      "date": 1483373403473
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3b8231552bd529d7"
+      },
+      "id": "3b8231552bd529d7",
+      "type": "add",
+      "after": "deb746642f59f6c9",
+      "date": 1483373404600
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e3f4a314819735f7"
+      },
+      "id": "e3f4a314819735f7",
+      "type": "add",
+      "after": "3b8231552bd529d7",
+      "date": 1483373405787
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f1bd83b3c390c6a8"
+      },
+      "id": "f1bd83b3c390c6a8",
+      "type": "add",
+      "after": "e3f4a314819735f7",
+      "date": 1483373407676
+    },
+    {
+      "type": "edit",
+      "id": "1a0248461b2df593",
+      "item": {
+        "type": "reference",
+        "id": "1a0248461b2df593",
+        "site": "fedwiki.rodwell.me",
+        "slug": "visualizing-page-history",
+        "title": "Visualizing Page History",
+        "text": "As can be seen by [[Understanding Page History]] this can be complex, containing differing view points - and maybe realities."
+      },
+      "date": 1483373413827
+    },
+    {
+      "type": "edit",
+      "id": "deb746642f59f6c9",
+      "item": {
+        "type": "reference",
+        "id": "deb746642f59f6c9",
+        "site": "fedwikihappening.rodwell.me",
+        "slug": "identity-and-provenance",
+        "title": "Identity and Provenance",
+        "text": "[[Forking as (cultural) feature]] raised issues of identity and provenance.\n<p>\nWe can see that frances.uk.fedwikihappening.net created the page and directory.fedwikihappening.net forked it, adding commentary. Finding out that frances is [[Frances Bell]], or that directory.fedwikihappings.net is [[Mike Caulfield]], is [[Discoverable but not Obvious]].\n<p>\nFedWiki's neighborhood boundaries are vague and dynamic. But everybody owns their stuff in this network. When should that ownership be more, or less, obvious? \n\n\n"
+      },
+      "date": 1483373418833
+    },
+    {
+      "type": "edit",
+      "id": "3b8231552bd529d7",
+      "item": {
+        "type": "reference",
+        "id": "3b8231552bd529d7",
+        "site": "journal.hapgood.net",
+        "slug": "identity-and-provenance",
+        "title": "Identity and Provenance",
+        "text": "A page with 10 items."
+      },
+      "date": 1483373427886
+    },
+    {
+      "type": "edit",
+      "id": "e3f4a314819735f7",
+      "item": {
+        "type": "reference",
+        "id": "e3f4a314819735f7",
+        "site": "journal.hapgood.net",
+        "slug": "identity-and-provenance-talk-page",
+        "title": "Identity and Provenance Talk Page",
+        "text": "[[Mike Caulfield]]: Jon, I like this experiment. Of course we'll end up with many different talk pages with 90% overlap, but I think that's OK. I tend to think of conversation here as being like Twitter where it's fine if you see only a portion of the conversation. Forking will always allow you to see what an individual is responding to on a page, which is the main thing."
+      },
+      "date": 1483373453847
+    },
+    {
+      "type": "edit",
+      "id": "f1bd83b3c390c6a8",
+      "item": {
+        "type": "reference",
+        "id": "f1bd83b3c390c6a8",
+        "site": "frances.uk.fedwikihappening.net",
+        "slug": "discoverable-but-not-obvious",
+        "title": "Discoverable but not Obvious",
+        "text": "Identity and citation has to be discoverable -- that's part of the deal, the BY in the CC-BY-SA. But it does not follow that citation should be obvious. In fact, there are many reasons to to background citation."
+      },
+      "date": 1483373518688
+    }
+  ]
+}

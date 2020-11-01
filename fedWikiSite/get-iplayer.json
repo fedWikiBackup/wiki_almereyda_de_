@@ -1,0 +1,480 @@
+{
+  "title": "get-iplayer",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "773525c3cc829f42",
+      "text": "benutzung"
+    },
+    {
+      "type": "paragraph",
+      "id": "8b94238e7986b435",
+      "text": "Der get-iplayer ist ein Programm, um Sendungen der BBC aufzuzeichnen, die nur eine Woche lang online sein dürfen. Beispiel:"
+    },
+    {
+      "type": "code",
+      "id": "442138d86df4f700",
+      "text": "get-iplayer --type radio \"on the wire\""
+    },
+    {
+      "type": "paragraph",
+      "id": "36652e3375dfd701",
+      "text": "Dies gibt einem eine Nummer der gewünschten Sendung zurück, die nun abgerufen werden kann:"
+    },
+    {
+      "type": "code",
+      "id": "7c4ee107af1e5233",
+      "text": "get-iplayer 11948 --get"
+    },
+    {
+      "type": "pagefold",
+      "id": "4d98c48884faafd1",
+      "text": "beispielaufruf"
+    },
+    {
+      "type": "paragraph",
+      "id": "78ac5636efa08474",
+      "text": "am einfachsten ließe sich <code>get-iplayer</code> per cron job jede woche starten, um jeweils die aktuelle episode herunterzuladen. da rtmpdump teilweise memory leaks produziert, wird der <code>--raw</code> switch verwendet"
+    },
+    {
+      "type": "code",
+      "id": "ce783696b0ed63fd",
+      "text": "get-iplayer --get \"on the wire\" --type=radio --raw"
+    },
+    {
+      "type": "pagefold",
+      "id": "0f6fecc9cef40ccc",
+      "text": "weitere links zum umgehen der bbc änderungen"
+    },
+    {
+      "type": "paragraph",
+      "id": "c4be80a0be832f69",
+      "text": "<li> [http://lists.infradead.org/mailman/listinfo/get_iplayer get_iplayer mailingliste ] <li> [http://www.christopherdowning.co.uk/2012/01/11/a-basic-get_iplayer-tutorial/ blogpost mit diskussion in den kommentaren ]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "get-iplayer"
+      },
+      "date": 1371133829735
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8b94238e7986b435"
+      },
+      "id": "8b94238e7986b435",
+      "type": "add",
+      "date": 1371133833352
+    },
+    {
+      "type": "edit",
+      "id": "8b94238e7986b435",
+      "item": {
+        "type": "paragraph",
+        "id": "8b94238e7986b435",
+        "text": "Der get-iplayer ist ein Programm, um Sendungen der BBC aufzuzeichnen, die nur eine Woche lang online sein dürfen. Beispiel:"
+      },
+      "date": 1371133856641
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b0505739f823c27d",
+        "text": ""
+      },
+      "id": "b0505739f823c27d",
+      "type": "add",
+      "after": "8b94238e7986b435",
+      "date": 1371133857145
+    },
+    {
+      "type": "remove",
+      "id": "b0505739f823c27d",
+      "date": 1371133861902
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "442138d86df4f700"
+      },
+      "id": "442138d86df4f700",
+      "type": "add",
+      "after": "8b94238e7986b435",
+      "date": 1371133862748
+    },
+    {
+      "type": "edit",
+      "id": "442138d86df4f700",
+      "item": {
+        "type": "code",
+        "id": "442138d86df4f700",
+        "text": "get-iplayer --type radio \"on the wire\""
+      },
+      "date": 1371133879008
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "84d3eff900d6650d"
+      },
+      "id": "84d3eff900d6650d",
+      "type": "add",
+      "after": "442138d86df4f700",
+      "date": 1371133885536
+    },
+    {
+      "type": "remove",
+      "id": "84d3eff900d6650d",
+      "date": 1371133893269
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "36652e3375dfd701"
+      },
+      "id": "36652e3375dfd701",
+      "type": "add",
+      "after": "442138d86df4f700",
+      "date": 1371133938820
+    },
+    {
+      "type": "edit",
+      "id": "36652e3375dfd701",
+      "item": {
+        "type": "paragraph",
+        "id": "36652e3375dfd701",
+        "text": "Dies gibt einem eine Nummer der gewünschten Sendung zurück, die nun abgerufen werden kann:"
+      },
+      "date": 1371133954495
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7c4ee107af1e5233"
+      },
+      "id": "7c4ee107af1e5233",
+      "type": "add",
+      "after": "36652e3375dfd701",
+      "date": 1371133955608
+    },
+    {
+      "type": "edit",
+      "id": "7c4ee107af1e5233",
+      "item": {
+        "type": "code",
+        "id": "7c4ee107af1e5233",
+        "text": "get-iplayer 11948 --get"
+      },
+      "date": 1371133972335
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "773525c3cc829f42"
+      },
+      "id": "773525c3cc829f42",
+      "type": "add",
+      "after": "7c4ee107af1e5233",
+      "date": 1371135180249
+    },
+    {
+      "type": "edit",
+      "id": "773525c3cc829f42",
+      "item": {
+        "type": "pagefold",
+        "id": "773525c3cc829f42",
+        "text": "gegenwärtig auf grund von umstellungen bei der bbc nicht funktionsfähig"
+      },
+      "date": 1371135194087
+    },
+    {
+      "type": "move",
+      "order": [
+        "773525c3cc829f42",
+        "8b94238e7986b435",
+        "442138d86df4f700",
+        "36652e3375dfd701",
+        "7c4ee107af1e5233"
+      ],
+      "id": "773525c3cc829f42",
+      "date": 1371135196624
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c4be80a0be832f69"
+      },
+      "id": "c4be80a0be832f69",
+      "type": "add",
+      "after": "7c4ee107af1e5233",
+      "date": 1371135202688
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "812cafd0f5767294"
+      },
+      "id": "812cafd0f5767294",
+      "type": "add",
+      "after": "c4be80a0be832f69",
+      "date": 1371135221984
+    },
+    {
+      "type": "edit",
+      "id": "c4be80a0be832f69",
+      "item": {
+        "type": "paragraph",
+        "id": "c4be80a0be832f69",
+        "text": "<li> [http://lists.infradead.org/mailman/listinfo/get_iplayer] <li>"
+      },
+      "date": 1371135243214
+    },
+    {
+      "type": "edit",
+      "id": "c4be80a0be832f69",
+      "item": {
+        "type": "paragraph",
+        "id": "c4be80a0be832f69",
+        "text": "<li> [http://lists.infradead.org/mailman/listinfo/get_iplayer] <li>http://www.christopherdowning.co.uk/2012/01/11/a-basic-get_iplayer-tutorial/"
+      },
+      "date": 1371135253903
+    },
+    {
+      "type": "edit",
+      "id": "c4be80a0be832f69",
+      "item": {
+        "type": "paragraph",
+        "id": "c4be80a0be832f69",
+        "text": "<li> [http://lists.infradead.org/mailman/listinfo/get_iplayer] <li>[http://www.christopherdowning.co.uk/2012/01/11/a-basic-get_iplayer-tutorial/]"
+      },
+      "date": 1371135261191
+    },
+    {
+      "type": "edit",
+      "id": "c4be80a0be832f69",
+      "item": {
+        "type": "paragraph",
+        "id": "c4be80a0be832f69",
+        "text": "<li> http://lists.infradead.org/mailman/listinfo/get_iplayer <li> http://www.christopherdowning.co.uk/2012/01/11/a-basic-get_iplayer-tutorial/"
+      },
+      "date": 1371135276064
+    },
+    {
+      "type": "remove",
+      "id": "812cafd0f5767294",
+      "date": 1371135307808
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0f6fecc9cef40ccc"
+      },
+      "id": "0f6fecc9cef40ccc",
+      "type": "add",
+      "after": "c4be80a0be832f69",
+      "date": 1371135308458
+    },
+    {
+      "type": "edit",
+      "id": "0f6fecc9cef40ccc",
+      "item": {
+        "type": "pagefold",
+        "id": "0f6fecc9cef40ccc",
+        "text": "weitere links zum umgehen der bbc änderungen"
+      },
+      "date": 1371135318910
+    },
+    {
+      "type": "move",
+      "order": [
+        "773525c3cc829f42",
+        "8b94238e7986b435",
+        "442138d86df4f700",
+        "36652e3375dfd701",
+        "7c4ee107af1e5233",
+        "0f6fecc9cef40ccc",
+        "c4be80a0be832f69"
+      ],
+      "id": "0f6fecc9cef40ccc",
+      "date": 1371135320824
+    },
+    {
+      "type": "edit",
+      "id": "c4be80a0be832f69",
+      "item": {
+        "type": "paragraph",
+        "id": "c4be80a0be832f69",
+        "text": "<li> [ http://lists.infradead.org/mailman/listinfo/get_iplayer ] <li> [ http://www.christopherdowning.co.uk/2012/01/11/a-basic-get_iplayer-tutorial/ ]"
+      },
+      "date": 1371135332439
+    },
+    {
+      "type": "edit",
+      "id": "c4be80a0be832f69",
+      "item": {
+        "type": "paragraph",
+        "id": "c4be80a0be832f69",
+        "text": "<li> [ http://lists.infradead.org/mailman/listinfo/get_iplayer get_iplayer mailingliste ] <li> [ http://www.christopherdowning.co.uk/2012/01/11/a-basic-get_iplayer-tutorial/ blogpost mit diskussion in den kommentaren ]"
+      },
+      "date": 1371135403408
+    },
+    {
+      "type": "edit",
+      "id": "c4be80a0be832f69",
+      "item": {
+        "type": "paragraph",
+        "id": "c4be80a0be832f69",
+        "text": "<li> [http://lists.infradead.org/mailman/listinfo/get_iplayer get_iplayer mailingliste ] <li> [http://www.christopherdowning.co.uk/2012/01/11/a-basic-get_iplayer-tutorial/ blogpost mit diskussion in den kommentaren ]"
+      },
+      "date": 1371135411863
+    },
+    {
+      "type": "edit",
+      "id": "773525c3cc829f42",
+      "item": {
+        "type": "pagefold",
+        "id": "773525c3cc829f42",
+        "text": "benutzung"
+      },
+      "date": 1373143611131
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4d98c48884faafd1"
+      },
+      "id": "4d98c48884faafd1",
+      "type": "add",
+      "after": "c4be80a0be832f69",
+      "date": 1373143618093
+    },
+    {
+      "type": "edit",
+      "id": "4d98c48884faafd1",
+      "item": {
+        "type": "pagefold",
+        "id": "4d98c48884faafd1",
+        "text": "beispielaufrufe"
+      },
+      "date": 1373143627595
+    },
+    {
+      "type": "move",
+      "order": [
+        "773525c3cc829f42",
+        "8b94238e7986b435",
+        "442138d86df4f700",
+        "36652e3375dfd701",
+        "7c4ee107af1e5233",
+        "4d98c48884faafd1",
+        "0f6fecc9cef40ccc",
+        "c4be80a0be832f69"
+      ],
+      "id": "4d98c48884faafd1",
+      "date": 1373143630062
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "78ac5636efa08474"
+      },
+      "id": "78ac5636efa08474",
+      "type": "add",
+      "after": "c4be80a0be832f69",
+      "date": 1373143631030
+    },
+    {
+      "type": "edit",
+      "id": "78ac5636efa08474",
+      "item": {
+        "type": "paragraph",
+        "id": "78ac5636efa08474",
+        "text": "am einfachsten ließe sich <code>get-iplayer</code> per cron job jede woche starten, um jeweils die aktuelle episode herunterzuladen. da rtmpdump teilweise memory leaks produziert, wird der <code>--raw</code> switch verwendet"
+      },
+      "date": 1373143682267
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b3f8cd12fadc6d72",
+        "text": ""
+      },
+      "id": "b3f8cd12fadc6d72",
+      "type": "add",
+      "after": "78ac5636efa08474",
+      "date": 1373143682774
+    },
+    {
+      "type": "remove",
+      "id": "b3f8cd12fadc6d72",
+      "date": 1373143683475
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ce783696b0ed63fd"
+      },
+      "id": "ce783696b0ed63fd",
+      "type": "add",
+      "after": "78ac5636efa08474",
+      "date": 1373143684829
+    },
+    {
+      "type": "edit",
+      "id": "ce783696b0ed63fd",
+      "item": {
+        "type": "code",
+        "id": "ce783696b0ed63fd",
+        "text": "get-iplayer --get \"on the wire\" --type=radio --raw"
+      },
+      "date": 1373143699899
+    },
+    {
+      "type": "move",
+      "order": [
+        "773525c3cc829f42",
+        "8b94238e7986b435",
+        "442138d86df4f700",
+        "36652e3375dfd701",
+        "7c4ee107af1e5233",
+        "4d98c48884faafd1",
+        "78ac5636efa08474",
+        "0f6fecc9cef40ccc",
+        "c4be80a0be832f69",
+        "ce783696b0ed63fd"
+      ],
+      "id": "78ac5636efa08474",
+      "date": 1373143713635
+    },
+    {
+      "type": "move",
+      "order": [
+        "773525c3cc829f42",
+        "8b94238e7986b435",
+        "442138d86df4f700",
+        "36652e3375dfd701",
+        "7c4ee107af1e5233",
+        "4d98c48884faafd1",
+        "78ac5636efa08474",
+        "ce783696b0ed63fd",
+        "0f6fecc9cef40ccc",
+        "c4be80a0be832f69"
+      ],
+      "id": "ce783696b0ed63fd",
+      "date": 1373143717156
+    },
+    {
+      "type": "edit",
+      "id": "4d98c48884faafd1",
+      "item": {
+        "type": "pagefold",
+        "id": "4d98c48884faafd1",
+        "text": "beispielaufruf"
+      },
+      "date": 1373143722843
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "title": "Perpetual Beta",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "373c8752735a6462",
+      "text": "Dieses Projekt beschreibt die Neuausrichtung und Fokussierung meiner Aktivitäten im Rahmen des [[Projekt Oxford]] auf der Sammelwebsite von [[jonrichter.de]], [[geosemantik.de]] und [[almereyda.de]]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Perpetual Beta"
+      },
+      "date": 1381890978574
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "373c8752735a6462"
+      },
+      "id": "373c8752735a6462",
+      "type": "add",
+      "date": 1381890980679
+    },
+    {
+      "type": "edit",
+      "id": "373c8752735a6462",
+      "item": {
+        "type": "paragraph",
+        "id": "373c8752735a6462",
+        "text": "Dieses Projekt beschreibt die Neuausrichtung und Fokussierung meiner Aktivitäten im Rahmen des [[Projekt Oxford]] auf der Sammelwebsite [jonrichter.de] [geosemantik.de] [almereyda.de]"
+      },
+      "date": 1381891057335
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "dfa494dd80aa63cd",
+        "text": ""
+      },
+      "id": "dfa494dd80aa63cd",
+      "type": "add",
+      "after": "373c8752735a6462",
+      "date": 1381891057839
+    },
+    {
+      "type": "remove",
+      "id": "dfa494dd80aa63cd",
+      "date": 1381891114480
+    },
+    {
+      "type": "edit",
+      "id": "373c8752735a6462",
+      "item": {
+        "type": "paragraph",
+        "id": "373c8752735a6462",
+        "text": "Dieses Projekt beschreibt die Neuausrichtung und Fokussierung meiner Aktivitäten im Rahmen des [[Projekt Oxford]] auf der Sammelwebsite von [[jonrichter.de]], [[geosemantik.de]] und [[almereyda.de]]."
+      },
+      "date": 1381891144987
+    }
+  ]
+}

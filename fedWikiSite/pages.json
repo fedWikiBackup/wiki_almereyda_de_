@@ -1,0 +1,276 @@
+{
+  "title": "Pages",
+  "story": [
+    {
+      "type": "reference",
+      "id": "ecc92fe7c805fdf8",
+      "site": "journal.hapgood.net",
+      "slug": "paradoxical-uniqueness",
+      "title": "paradoxical uniqueness",
+      "text": "This term was originally used by Braudy to discuss the history of painting the aristocracy with the aim of showing how their natural authority within democracy came from looking just like everyone else, while not being like anyone else at all."
+    },
+    {
+      "type": "reference",
+      "id": "e7846b494681fde7",
+      "site": "ward.fed.wiki.org",
+      "slug": "personas",
+      "title": "Personas",
+      "text": "We'll be developing and refining personas who will be the imagined actors as we develop more advanced uses cases. (Shift-click to see multiple personas.)"
+    },
+    {
+      "type": "reference",
+      "id": "8334888f92712598",
+      "site": "wiki.chrisellis.me",
+      "slug": "promises-and-forgiveness",
+      "title": "Promises and Forgiveness",
+      "text": "\"The remedy which the tradition of Western thought has proposed for the unpredictability and irreversibility of action has consisted in abstaining from action altogether, in the withdrawal from the sphere of interaction with others, in the hope that one's freedom and integrity could thereby be preserved. Platonism, Stoicism and Christianity elevated the sphere of contemplation above the sphere of action, precisely because in the former one could be free from the entanglements and frustrations of action. Arendt's proposal, by contrast, is not to turn one's back on the realm of human affairs, but to rely on two faculties inherent in action itself, the faculty of forgiving and the faculty of promising. These two faculties are closely connected, the former mitigating the irreversibility of action by absolving the actor from the unintended consequences of his or her deeds, the latter moderating the uncertainty of its outcome by binding actors to certain courses of action and thereby setting some limit to the unpredictability of the future. Both faculties are, in this respect, connected to temporality: from the standpoint of the present forgiving looks backward to what has happened and absolves the actor from what was unintentionally done, while promising looks forward as it seeks to establish islands of security in an otherwise uncertain and unpredictable future.\"\n - [http://plato.stanford.edu/entries/arendt/#ActUnpIrr Action, Unpredictability, and Irreversibility]"
+    },
+    {
+      "type": "reference",
+      "id": "25e1bd6e3f83ef27",
+      "site": "wiki.chrisellis.me",
+      "slug": "space-and-place",
+      "title": "Space and Place",
+      "text": "[https://www.evernote.com/l/AE5JoaHrMRNPMYF7phtvu0dc-fGEREq05Ys Space and Place] by [https://www.linkedin.com/in/pauletterobinson Paulette Robinson]. Original webpage now defunct, but available in the [http://web.archive.org/web/20120502080529/http://otal.umd.edu/~probinso/Dissertation/methodology/spaceplace.html wayback machine of the Internet Archive]"
+    },
+    {
+      "type": "reference",
+      "id": "eeb5aca53e76be8d",
+      "site": "don.tries.fed.wiki",
+      "slug": "knowledge-commons",
+      "title": "Knowledge Commons",
+      "text": "Elinor Ostrom, with Oliver Williamson, won the Nobel Prize in Economic Sciences in 2009 because she demonstrated that regular folks like you and I can create and self-govern a commons in a sustainable and equitable manner.[http://www.elinorostrom.com site]"
+    },
+    {
+      "type": "reference",
+      "id": "8acf6d61824f7eef",
+      "site": "life.ward.asia.wiki.org",
+      "slug": "life-with-information-liberation",
+      "title": "Life with Information Liberation",
+      "text": "The original working title, rejected by the publisher, of a book edited by Carol Stimmel and Don Olson to be published in late 2016."
+    },
+    {
+      "type": "reference",
+      "id": "499f65ad77cdc1a0",
+      "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+      "punt": {
+        "url": "http://pattern.sfw.c2.com/",
+        "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36"
+      },
+      "site": "pattern.sfw.c2.com",
+      "slug": "people-projects-and-patterns",
+      "title": "People Projects And Patterns",
+      "text": "\"Who -- People, What -- Projects, and How -- Patterns\""
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Pages",
+        "story": []
+      },
+      "date": 1483549854116
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "id": "ecc92fe7c805fdf8",
+        "site": "journal.hapgood.net",
+        "slug": "paradoxical-uniqueness",
+        "title": "paradoxical uniqueness",
+        "text": "This term was originally used by Braudy to discuss the history of painting the aristocracy with the aim of showing how their natural authority within democracy came from looking just like everyone else, while not being like anyone else at all."
+      },
+      "id": "ecc92fe7c805fdf8",
+      "date": 1483549857914
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "id": "e7846b494681fde7",
+        "site": "ward.fed.wiki.org",
+        "slug": "personas",
+        "title": "Personas",
+        "text": "We'll be developing and refining personas who will be the imagined actors as we develop more advanced uses cases. (Shift-click to see multiple personas.)"
+      },
+      "after": "ecc92fe7c805fdf8",
+      "id": "e7846b494681fde7",
+      "date": 1483549859875
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8334888f92712598"
+      },
+      "id": "8334888f92712598",
+      "type": "add",
+      "after": "e7846b494681fde7",
+      "date": 1483549861466
+    },
+    {
+      "type": "edit",
+      "id": "8334888f92712598",
+      "item": {
+        "type": "reference",
+        "id": "8334888f92712598",
+        "site": "wiki.chrisellis.me",
+        "slug": "promises-and-forgiveness",
+        "title": "Promises and Forgiveness",
+        "text": "<p><q>The remedy which the tradition of Western thought has proposed for the unpredictability and irreversibility of action has consisted in abstaining from action altogether, in the withdrawal from the sphere of interaction with others, in the hope that one's freedom and integrity could thereby be preserved. Platonism, Stoicism and Christianity elevated the sphere of contemplation above the sphere of action, precisely because in the former one could be free from the entanglements and frustrations of action. Arendt's proposal, by contrast, is not to turn one's back on the realm of human affairs, but to rely on two faculties inherent in action itself, the faculty of forgiving and the faculty of promising. These two faculties are closely connected, the former mitigating the irreversibility of action by absolving the actor from the unintended consequences of his or her deeds, the latter moderating the uncertainty of its outcome by binding actors to certain courses of action and thereby setting some limit to the unpredictability of the future. Both faculties are, in this respect, connected to temporality: from the standpoint of the present forgiving looks backward to what has happened and absolves the actor from what was unintentionally done, while promising looks forward as it seeks to establish islands of security in an otherwise uncertain and unpredictable future.</q><br>\n<a href=\"http://plato.stanford.edu/entries/arendt/#ActUnpIrr\">- Action, Unpredictability, and Irreversibility</a></p>"
+      },
+      "date": 1483549934031
+    },
+    {
+      "type": "edit",
+      "id": "8334888f92712598",
+      "item": {
+        "type": "reference",
+        "id": "8334888f92712598",
+        "site": "wiki.chrisellis.me",
+        "slug": "promises-and-forgiveness",
+        "title": "Promises and Forgiveness",
+        "text": "\"The remedy which the tradition of Western thought has proposed for the unpredictability and irreversibility of action has consisted in abstaining from action altogether, in the withdrawal from the sphere of interaction with others, in the hope that one's freedom and integrity could thereby be preserved. Platonism, Stoicism and Christianity elevated the sphere of contemplation above the sphere of action, precisely because in the former one could be free from the entanglements and frustrations of action. Arendt's proposal, by contrast, is not to turn one's back on the realm of human affairs, but to rely on two faculties inherent in action itself, the faculty of forgiving and the faculty of promising. These two faculties are closely connected, the former mitigating the irreversibility of action by absolving the actor from the unintended consequences of his or her deeds, the latter moderating the uncertainty of its outcome by binding actors to certain courses of action and thereby setting some limit to the unpredictability of the future. Both faculties are, in this respect, connected to temporality: from the standpoint of the present forgiving looks backward to what has happened and absolves the actor from what was unintentionally done, while promising looks forward as it seeks to establish islands of security in an otherwise uncertain and unpredictable future.\"\n - [http://plato.stanford.edu/entries/arendt/#ActUnpIrr Action, Unpredictability, and Irreversibility]"
+      },
+      "date": 1483549979217
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "25e1bd6e3f83ef27"
+      },
+      "id": "25e1bd6e3f83ef27",
+      "type": "add",
+      "after": "8334888f92712598",
+      "date": 1483550044870
+    },
+    {
+      "type": "edit",
+      "id": "25e1bd6e3f83ef27",
+      "item": {
+        "type": "reference",
+        "id": "25e1bd6e3f83ef27",
+        "site": "wiki.chrisellis.me",
+        "slug": "space-and-place",
+        "title": "Space and Place",
+        "text": "<a href=\"https://www.evernote.com/l/AE5JoaHrMRNPMYF7phtvu0dc-fGEREq05Ys\">Space and Place</a> by <a href=\"https://www.linkedin.com/in/pauletterobinson\">Paulette Robinson</a>. Original webpage now defunct."
+      },
+      "date": 1483550048342
+    },
+    {
+      "type": "edit",
+      "id": "25e1bd6e3f83ef27",
+      "item": {
+        "type": "reference",
+        "id": "25e1bd6e3f83ef27",
+        "site": "wiki.chrisellis.me",
+        "slug": "space-and-place",
+        "title": "Space and Place",
+        "text": "[https://www.evernote.com/l/AE5JoaHrMRNPMYF7phtvu0dc-fGEREq05Ys Space and Place] by [https://www.linkedin.com/in/pauletterobinson Paulette Robinson]. Original webpage now defunct."
+      },
+      "date": 1483550082213
+    },
+    {
+      "type": "edit",
+      "id": "25e1bd6e3f83ef27",
+      "item": {
+        "type": "reference",
+        "id": "25e1bd6e3f83ef27",
+        "site": "wiki.chrisellis.me",
+        "slug": "space-and-place",
+        "title": "Space and Place",
+        "text": "[https://www.evernote.com/l/AE5JoaHrMRNPMYF7phtvu0dc-fGEREq05Ys Space and Place] by [https://www.linkedin.com/in/pauletterobinson Paulette Robinson]. Original webpage now defunct, but available in the [http://web.archive.org/web/20120502080529/http://otal.umd.edu/~probinso/Dissertation/methodology/spaceplace.html wayback machine of the Internet Archive]"
+      },
+      "date": 1483550193825
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "eeb5aca53e76be8d"
+      },
+      "id": "eeb5aca53e76be8d",
+      "type": "add",
+      "after": "25e1bd6e3f83ef27",
+      "date": 1483550264610
+    },
+    {
+      "type": "edit",
+      "id": "eeb5aca53e76be8d",
+      "item": {
+        "type": "reference",
+        "id": "eeb5aca53e76be8d",
+        "site": "don.tries.fed.wiki",
+        "slug": "knowledge-commons",
+        "title": "Knowledge Commons",
+        "text": "Elinor Ostrom, with Oliver Williamson, won the Nobel Prize in Economic Sciences in 2009 because she demonstrated that regular folks like you and I can create and self-govern a commons in a sustainable and equitable manner.[http://www.elinorostrom.com site]"
+      },
+      "date": 1483550289280
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8acf6d61824f7eef"
+      },
+      "id": "8acf6d61824f7eef",
+      "type": "add",
+      "after": "eeb5aca53e76be8d",
+      "date": 1483550312190
+    },
+    {
+      "type": "edit",
+      "id": "8acf6d61824f7eef",
+      "item": {
+        "type": "reference",
+        "id": "8acf6d61824f7eef",
+        "site": "life.ward.asia.wiki.org",
+        "slug": "life-with-information-liberation",
+        "title": "Life with Information Liberation",
+        "text": "The original working title, rejected by the publisher, of a book edited by Carol Stimmel and Don Olson to be published in late 2016."
+      },
+      "date": 1483550317976
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "499f65ad77cdc1a0"
+      },
+      "id": "499f65ad77cdc1a0",
+      "type": "add",
+      "after": "8acf6d61824f7eef",
+      "date": 1483550439523
+    },
+    {
+      "type": "edit",
+      "id": "499f65ad77cdc1a0",
+      "item": {
+        "type": "factory",
+        "id": "499f65ad77cdc1a0",
+        "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://pattern.sfw.c2.com/",
+          "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36"
+        }
+      },
+      "date": 1483550450379
+    },
+    {
+      "type": "edit",
+      "id": "499f65ad77cdc1a0",
+      "item": {
+        "type": "reference",
+        "id": "499f65ad77cdc1a0",
+        "prompt": "Unexpected Item\nWe can't make sense of the drop.\nTry something else or see [[About Factory Plugin]].",
+        "punt": {
+          "url": "http://pattern.sfw.c2.com/",
+          "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36"
+        },
+        "site": "pattern.sfw.c2.com",
+        "slug": "people-projects-and-patterns",
+        "title": "People Projects And Patterns",
+        "text": "\"Who -- People, What -- Projects, and How -- Patterns\""
+      },
+      "date": 1483550561541
+    }
+  ]
+}
