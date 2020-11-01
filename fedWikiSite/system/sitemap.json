@@ -1,0 +1,121 @@
+[
+  {
+    "slug": "allmendeio",
+    "title": "allmende.io",
+    "date": 1405182679580,
+    "synopsis": "Allmende.io ist ein Zusammenschluss von Diensten, die kostenlos der Zivilgesellschaft bereitgestellt werden."
+  },
+  {
+    "slug": "bloggartenkartede",
+    "title": "blog.gartenkarte.de",
+    "date": 1381953405859,
+    "synopsis": "Läuft nun per GitHub Pages und Octopress von einem beliebigen Ruby Client aus, der Git unterstützt."
+  },
+  {
+    "slug": "bloggeosemantikde",
+    "title": "blog.geosemantik.de",
+    "date": 1381953225482,
+    "synopsis": "Wurde nach [https://uberspace.de/dokuwiki/cool:ghost uberspace Anleitung] in <code>yala0009</code> angelegt und hat funktioniert."
+  },
+  {
+    "slug": "gartenkarte",
+    "title": "Gartenkarte",
+    "date": 1370067316373,
+    "synopsis": "[http://gartenkarte.de/ Gartenkarte] Webkarte auf Basis von Stamens Watercolor mit den Stadtackerdaten."
+  },
+  {
+    "slug": "geosemantikde",
+    "title": "geosemantik.de",
+    "date": 1382209394443,
+    "synopsis": "Die Idee der Geosemantik beschäftigt mich seit einer Weile. Konkrete Nutzfelder scheinen sich im Spannungsfeld von Linked Geodata, Online Kollaboration und Wissensphilosophie anzudeuten."
+  },
+  {
+    "slug": "get-iplayer",
+    "title": "get-iplayer",
+    "date": 1373143722843,
+    "synopsis": "Der get-iplayer ist ein Programm, um Sendungen der BBC aufzuzeichnen, die nur eine Woche lang online sein dürfen. Beispiel:"
+  },
+  {
+    "slug": "historic-tidbits",
+    "title": "Historic Tidbits",
+    "date": 1483389859398,
+    "synopsis": "In one year we've converted vague notions of a new wiki into a working software platform with sufficient plugins to meet a demanding open-data application. Here we reflect on this experience from a software development perspective."
+  },
+  {
+    "slug": "learn-wiki-by-doing-wiki",
+    "title": "Learn Wiki by Doing Wiki",
+    "date": 1357884307371,
+    "synopsis": "I've given enough one on one introductions that I know some paths work better than others. Hopefully a detail understanding with enable more canned training and maybe even suggest simplifying affordances."
+  },
+  {
+    "slug": "lineups",
+    "title": "Lineups",
+    "date": 1483388206310,
+    "synopsis": "[[Narrative Chart]]"
+  },
+  {
+    "slug": "missing-page",
+    "title": "Topic does not exist",
+    "synopsis": "You are on a static Federated Wiki server, and so creating a new topic does not work correctly - you can edit this, but it will only exist in this browser."
+  },
+  {
+    "slug": "narrative-chart",
+    "title": "Narrative Chart",
+    "date": 1483373518688,
+    "synopsis": "As can be seen by [[Understanding Page History]] this can be complex, containing differing view points - and maybe realities."
+  },
+  {
+    "slug": "pages",
+    "title": "Pages",
+    "date": 1483550561541,
+    "synopsis": "This term was originally used by Braudy to discuss the history of painting the aristocracy with the aim of showing how their natural authority within democracy came from looking just like everyone else, while not being like anyone else at all."
+  },
+  {
+    "slug": "perpetual-beta",
+    "title": "Perpetual Beta",
+    "date": 1381891144987,
+    "synopsis": "Dieses Projekt beschreibt die Neuausrichtung und Fokussierung meiner Aktivitäten im Rahmen des [[Projekt Oxford]] auf der Sammelwebsite von [[jonrichter.de]], [[geosemantik.de]] und [[almereyda.de]]."
+  },
+  {
+    "slug": "recent-submissions",
+    "title": "Recent Submissions",
+    "date": 1370190860000,
+    "synopsis": "Here we list changes that have been submitted to this site using the [[Submit Changes]] mechanism."
+  },
+  {
+    "slug": "tenement-yard",
+    "title": "tenement yard",
+    "date": 1483549859873,
+    "synopsis": "[[Lineups]]"
+  },
+  {
+    "slug": "transporters",
+    "title": "Transporters",
+    "date": 1484011308106,
+    "synopsis": "Below we find a collection of gray boxes, which we call transporters. They accept drops and send them to the remote address, which in return can answer with federated wiki pages."
+  },
+  {
+    "slug": "ubuntu",
+    "title": "ubuntu",
+    "date": 1373143587812,
+    "synopsis": "Multimonitorfix"
+  },
+  {
+    "slug": "ward-cunningham",
+    "title": "Ward Cunningham",
+    "date": 1361923120442,
+    "synopsis": "Ward Cunningham served as Nike's open-data fellow. Ward co-founded the consultancy, Cunningham & Cunningham, Inc. He has served as CTO of CitizenGlobal and AboutUs, as Director of the Eclipse Foundation, an Architect in Microsoft's Patterns & Practices Group, the Director of R&D at Wyatt Software and as Principle Engineer in the Tektronix Computer Research Laboratory."
+  },
+  {
+    "slug": "welcome-visitors",
+    "title": "Almereyda-Wiki",
+    "date": 1483373025229,
+    "synopsis": "[[Perpetual Beta]]"
+  },
+  {
+    "slug": "welcome-visitors-alt",
+    "title": "Welcome Visitors",
+    "date": 1355532626481,
+    "synopsis": "Welcome to the [[Smallest Federated Wiki]]. You may be seeing this page because you have just entered a wiki of your own. If so, you have three things to do before you go on."
+  }
+]
