@@ -1,0 +1,289 @@
+{
+  "title": "Transporters",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "75f96ce544155057",
+      "text": "Below we find a collection of gray boxes, which we call transporters. They accept drops and send them to the remote address, which in return can answer with federated wiki pages."
+    },
+    {
+      "type": "pagefold",
+      "id": "badbfe6e216bf56e",
+      "text": "Proxy an english Wikipedia page's headlines into federated wiki."
+    },
+    {
+      "type": "transport",
+      "id": "d99c350032e490a6",
+      "text": "POST http://transport-proxy.apps.allmende.io/proxy"
+    },
+    {
+      "type": "pagefold",
+      "id": "b2ccd1b56cff88cf",
+      "text": "Import an english Wikipedia page's linked pages into federated wiki."
+    },
+    {
+      "type": "transport",
+      "id": "8bb5e0a0ebf0ee97",
+      "text": "POST http://transport-proxy.apps.allmende.io/import"
+    },
+    {
+      "type": "pagefold",
+      "id": "4f4bae1991f555a0",
+      "text": "Echo like a drop!"
+    },
+    {
+      "type": "transport",
+      "id": "56f33e27cadaa42d",
+      "text": "POST http://image-transporter.apps.allmende.io/echo"
+    },
+    {
+      "type": "paragraph",
+      "id": "e194c5ce37ecc14b",
+      "text": "This returns an image in multiple sizes:"
+    },
+    {
+      "type": "transport",
+      "id": "21991d59f8f9a66c",
+      "text": "POST http://image-transporter.apps.allmende.io/image"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Transporters",
+        "story": []
+      },
+      "date": 1483387146385
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "transport",
+        "id": "d99c350032e490a6",
+        "text": "POST http://transport-proxy.apps.allmende.io/proxy"
+      },
+      "id": "d99c350032e490a6",
+      "date": 1483387176716
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "transport",
+        "id": "8bb5e0a0ebf0ee97",
+        "text": "POST http://transport-proxy.apps.allmende.io/import"
+      },
+      "after": "d99c350032e490a6",
+      "id": "8bb5e0a0ebf0ee97",
+      "date": 1483387179650
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "56f33e27cadaa42d"
+      },
+      "id": "56f33e27cadaa42d",
+      "type": "add",
+      "after": "8bb5e0a0ebf0ee97",
+      "date": 1483387187800
+    },
+    {
+      "type": "edit",
+      "id": "56f33e27cadaa42d",
+      "item": {
+        "type": "transport",
+        "id": "56f33e27cadaa42d",
+        "text": "http://image-transporter.apps.allmende.io/echo"
+      },
+      "date": 1483387205721
+    },
+    {
+      "type": "edit",
+      "id": "56f33e27cadaa42d",
+      "item": {
+        "type": "transport",
+        "id": "56f33e27cadaa42d",
+        "text": "POST http://image-transporter.apps.allmende.io/echo"
+      },
+      "date": 1483387290134
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "badbfe6e216bf56e"
+      },
+      "id": "badbfe6e216bf56e",
+      "type": "add",
+      "after": "56f33e27cadaa42d",
+      "date": 1483398708767
+    },
+    {
+      "type": "edit",
+      "id": "badbfe6e216bf56e",
+      "item": {
+        "type": "pagefold",
+        "id": "badbfe6e216bf56e",
+        "text": "Proxy an english Wikipedia page's headlines into federated wiki."
+      },
+      "date": 1483398735063
+    },
+    {
+      "type": "move",
+      "order": [
+        "badbfe6e216bf56e",
+        "d99c350032e490a6",
+        "8bb5e0a0ebf0ee97",
+        "56f33e27cadaa42d"
+      ],
+      "id": "badbfe6e216bf56e",
+      "date": 1483398737503
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b2ccd1b56cff88cf"
+      },
+      "id": "b2ccd1b56cff88cf",
+      "type": "add",
+      "after": "56f33e27cadaa42d",
+      "date": 1483398739011
+    },
+    {
+      "type": "edit",
+      "id": "b2ccd1b56cff88cf",
+      "item": {
+        "type": "pagefold",
+        "id": "b2ccd1b56cff88cf",
+        "text": "Import an english Wikipedia page's linked pages into federated wiki."
+      },
+      "date": 1483398762094
+    },
+    {
+      "type": "move",
+      "order": [
+        "badbfe6e216bf56e",
+        "d99c350032e490a6",
+        "b2ccd1b56cff88cf",
+        "8bb5e0a0ebf0ee97",
+        "56f33e27cadaa42d"
+      ],
+      "id": "b2ccd1b56cff88cf",
+      "date": 1483398765732
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4f4bae1991f555a0"
+      },
+      "id": "4f4bae1991f555a0",
+      "type": "add",
+      "after": "56f33e27cadaa42d",
+      "date": 1483398769104
+    },
+    {
+      "type": "edit",
+      "id": "4f4bae1991f555a0",
+      "item": {
+        "type": "pagefold",
+        "id": "4f4bae1991f555a0",
+        "text": "Echo like a drop!"
+      },
+      "date": 1483398779166
+    },
+    {
+      "type": "move",
+      "order": [
+        "badbfe6e216bf56e",
+        "d99c350032e490a6",
+        "b2ccd1b56cff88cf",
+        "8bb5e0a0ebf0ee97",
+        "4f4bae1991f555a0",
+        "56f33e27cadaa42d"
+      ],
+      "id": "4f4bae1991f555a0",
+      "date": 1483398781238
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "21991d59f8f9a66c"
+      },
+      "id": "21991d59f8f9a66c",
+      "type": "add",
+      "after": "56f33e27cadaa42d",
+      "date": 1484011149582
+    },
+    {
+      "type": "edit",
+      "id": "21991d59f8f9a66c",
+      "item": {
+        "type": "transport",
+        "id": "21991d59f8f9a66c",
+        "text": "POST http://image-transporter.apps.allmende.io/image"
+      },
+      "date": 1484011158450
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "75f96ce544155057"
+      },
+      "id": "75f96ce544155057",
+      "type": "add",
+      "after": "21991d59f8f9a66c",
+      "date": 1484011168276
+    },
+    {
+      "type": "move",
+      "order": [
+        "75f96ce544155057",
+        "badbfe6e216bf56e",
+        "d99c350032e490a6",
+        "b2ccd1b56cff88cf",
+        "8bb5e0a0ebf0ee97",
+        "4f4bae1991f555a0",
+        "56f33e27cadaa42d",
+        "21991d59f8f9a66c"
+      ],
+      "id": "75f96ce544155057",
+      "date": 1484011171486
+    },
+    {
+      "type": "edit",
+      "id": "75f96ce544155057",
+      "item": {
+        "type": "paragraph",
+        "id": "75f96ce544155057",
+        "text": "Below we find a collection of gray boxes, which we call transporters. They accept drops and send them to the remote address, which in return can answer with federated wiki pages."
+      },
+      "date": 1484011276185
+    },
+    {
+      "type": "add",
+      "id": "e194c5ce37ecc14b",
+      "item": {
+        "type": "paragraph",
+        "id": "e194c5ce37ecc14b",
+        "text": "This returns an image in multiple sizes:"
+      },
+      "after": "75f96ce544155057",
+      "date": 1484011305812
+    },
+    {
+      "type": "move",
+      "order": [
+        "75f96ce544155057",
+        "badbfe6e216bf56e",
+        "d99c350032e490a6",
+        "b2ccd1b56cff88cf",
+        "8bb5e0a0ebf0ee97",
+        "4f4bae1991f555a0",
+        "56f33e27cadaa42d",
+        "e194c5ce37ecc14b",
+        "21991d59f8f9a66c"
+      ],
+      "id": "e194c5ce37ecc14b",
+      "date": 1484011308106
+    }
+  ]
+}
