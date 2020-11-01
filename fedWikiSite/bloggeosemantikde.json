@@ -1,0 +1,54 @@
+{
+  "title": "blog.geosemantik.de",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "31db9008e27b6663",
+      "text": "Wurde nach [https://uberspace.de/dokuwiki/cool:ghost uberspace Anleitung] in <code>yala0009</code> angelegt und hat funktioniert."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "blog.geosemantik.de"
+      },
+      "date": 1381953166835
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "31db9008e27b6663"
+      },
+      "id": "31db9008e27b6663",
+      "type": "add",
+      "date": 1381953168338
+    },
+    {
+      "type": "edit",
+      "id": "31db9008e27b6663",
+      "item": {
+        "type": "paragraph",
+        "id": "31db9008e27b6663",
+        "text": "Wurde nach [https://uberspace.de/dokuwiki/cool:ghost uberspace Anleitung] in <code>yala0009</code> angelegt und hat funktioniert."
+      },
+      "date": 1381953219399
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "607b2749b2f67b7e",
+        "text": ""
+      },
+      "id": "607b2749b2f67b7e",
+      "type": "add",
+      "after": "31db9008e27b6663",
+      "date": 1381953219904
+    },
+    {
+      "type": "remove",
+      "id": "607b2749b2f67b7e",
+      "date": 1381953225482
+    }
+  ]
+}
