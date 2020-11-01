@@ -1,0 +1,80 @@
+{
+  "title": "blog.gartenkarte.de",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f81301ca94cf0074",
+      "text": "Läuft nun per GitHub Pages und Octopress von einem beliebigen Ruby Client aus, der Git unterstützt."
+    },
+    {
+      "type": "paragraph",
+      "id": "442878fe2424fc06",
+      "text": "Beispielhaft wurde das ganze auf dem virtuellen Server angelegt, kann aber auch lokal bearbeitet werden."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "blog.gartenkarte.de"
+      },
+      "date": 1381953347029
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f81301ca94cf0074"
+      },
+      "id": "f81301ca94cf0074",
+      "type": "add",
+      "date": 1381953348984
+    },
+    {
+      "type": "edit",
+      "id": "f81301ca94cf0074",
+      "item": {
+        "type": "paragraph",
+        "id": "f81301ca94cf0074",
+        "text": "Läuft nun per GitHub Pages und Octopress von einem beliebigen Ruby Client aus, der Git unterstützt."
+      },
+      "date": 1381953382701
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "442878fe2424fc06",
+        "text": ""
+      },
+      "id": "442878fe2424fc06",
+      "type": "add",
+      "after": "f81301ca94cf0074",
+      "date": 1381953383205
+    },
+    {
+      "type": "edit",
+      "id": "442878fe2424fc06",
+      "item": {
+        "type": "paragraph",
+        "id": "442878fe2424fc06",
+        "text": "Beispielhaft wurde das ganze auf dem virtuellen Server angelegt, kann aber auch lokal bearbeitet werden."
+      },
+      "date": 1381953403686
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c50f29d8ac1fc731",
+        "text": ""
+      },
+      "id": "c50f29d8ac1fc731",
+      "type": "add",
+      "after": "442878fe2424fc06",
+      "date": 1381953404190
+    },
+    {
+      "type": "remove",
+      "id": "c50f29d8ac1fc731",
+      "date": 1381953405859
+    }
+  ]
+}
