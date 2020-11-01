@@ -1,0 +1,64 @@
+{
+  "title": "Lineups",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "36ee72daeb05f43b",
+      "text": "[[Narrative Chart]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "055bbceeee07620a",
+      "text": "[[Historic Tidbits]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Lineups",
+        "story": []
+      },
+      "date": 1483373362533
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "36ee72daeb05f43b"
+      },
+      "id": "36ee72daeb05f43b",
+      "type": "add",
+      "date": 1483373384391
+    },
+    {
+      "type": "edit",
+      "id": "36ee72daeb05f43b",
+      "item": {
+        "type": "paragraph",
+        "id": "36ee72daeb05f43b",
+        "text": "[[Narrative Chart]]"
+      },
+      "date": 1483373391579
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "055bbceeee07620a"
+      },
+      "id": "055bbceeee07620a",
+      "type": "add",
+      "after": "36ee72daeb05f43b",
+      "date": 1483388197880
+    },
+    {
+      "type": "edit",
+      "id": "055bbceeee07620a",
+      "item": {
+        "type": "paragraph",
+        "id": "055bbceeee07620a",
+        "text": "[[Historic Tidbits]]"
+      },
+      "date": 1483388206310
+    }
+  ]
+}
