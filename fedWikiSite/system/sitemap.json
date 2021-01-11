@@ -27,7 +27,13 @@
     "slug": "geosemantikde",
     "title": "geosemantik.de",
     "date": 1382209394443,
-    "synopsis": "Die Idee der Geosemantik beschäftigt mich seit einer Weile. Konkrete Nutzfelder scheinen sich im Spannungsfeld von Linked Geodata, Online Kollaboration und Wissensphilosophie anzudeuten."
+    "synopsis": "Die Idee der Geosemantik beschäftigt mich seit einer Weile. Konkrete Nutzfelder scheinen sich im Spannungsfeld von Linked Geodata, Online Kollaboration und Wissensphilosophie anzudeuten.",
+    "links": {
+      "publicspaceinvadersorg": "c0c2a99760b27162",
+      "alphapublicspaceinvadersorg": "8f10ee596465c0e3",
+      "bloggartenkartede": "8b9ce2ab4bac2d00",
+      "bloggeosemantikde": "ad312b86d64bb1eb"
+    }
   },
   {
     "slug": "get-iplayer",
@@ -51,7 +57,11 @@
     "slug": "lineups",
     "title": "Lineups",
     "date": 1483388206310,
-    "synopsis": "[[Narrative Chart]]"
+    "synopsis": "[[Narrative Chart]]",
+    "links": {
+      "narrative-chart": "36ee72daeb05f43b",
+      "historic-tidbits": "055bbceeee07620a"
+    }
   },
   {
     "slug": "missing-page",
@@ -62,7 +72,14 @@
     "slug": "narrative-chart",
     "title": "Narrative Chart",
     "date": 1483373518688,
-    "synopsis": "As can be seen by [[Understanding Page History]] this can be complex, containing differing view points - and maybe realities."
+    "synopsis": "As can be seen by [[Understanding Page History]] this can be complex, containing differing view points - and maybe realities.",
+    "links": {
+      "understanding-page-history": "1a0248461b2df593",
+      "forking-as-cultural-feature": "deb746642f59f6c9",
+      "frances-bell": "deb746642f59f6c9",
+      "mike-caulfield": "deb746642f59f6c9",
+      "discoverable-but-not-obvious": "deb746642f59f6c9"
+    }
   },
   {
     "slug": "pages",
@@ -74,19 +91,36 @@
     "slug": "perpetual-beta",
     "title": "Perpetual Beta",
     "date": 1381891144987,
-    "synopsis": "Dieses Projekt beschreibt die Neuausrichtung und Fokussierung meiner Aktivitäten im Rahmen des [[Projekt Oxford]] auf der Sammelwebsite von [[jonrichter.de]], [[geosemantik.de]] und [[almereyda.de]]."
+    "synopsis": "Dieses Projekt beschreibt die Neuausrichtung und Fokussierung meiner Aktivitäten im Rahmen des [[Projekt Oxford]] auf der Sammelwebsite von [[jonrichter.de]], [[geosemantik.de]] und [[almereyda.de]].",
+    "links": {
+      "projekt-oxford": "373c8752735a6462",
+      "jonrichterde": "373c8752735a6462",
+      "geosemantikde": "373c8752735a6462",
+      "almereydade": "373c8752735a6462"
+    }
   },
   {
     "slug": "recent-submissions",
     "title": "Recent Submissions",
     "date": 1370190860000,
-    "synopsis": "Here we list changes that have been submitted to this site using the [[Submit Changes]] mechanism."
+    "synopsis": "Here we list changes that have been submitted to this site using the [[Submit Changes]] mechanism.",
+    "links": {
+      "submit-changes": "48ba7d1fd4bb209d",
+      "about-activity-plugin": "d59ee093356abe44",
+      "can-lichtsteuerung": "5cfef1bf508230a1",
+      "almereyda-wiki": "a825e855dfcbc6fd"
+    }
   },
   {
     "slug": "tenement-yard",
     "title": "tenement yard",
     "date": 1483549859873,
-    "synopsis": "[[Lineups]]"
+    "synopsis": "[[Lineups]]",
+    "links": {
+      "lineups": "2c442025795a0a50",
+      "transporters": "583e93c7b72ddc7c",
+      "pages": "57418b8941a8ac4c"
+    }
   },
   {
     "slug": "transporters",
@@ -104,18 +138,40 @@
     "slug": "ward-cunningham",
     "title": "Ward Cunningham",
     "date": 1361923120442,
-    "synopsis": "Ward Cunningham served as Nike's open-data fellow. Ward co-founded the consultancy, Cunningham & Cunningham, Inc. He has served as CTO of CitizenGlobal and AboutUs, as Director of the Eclipse Foundation, an Architect in Microsoft's Patterns & Practices Group, the Director of R&D at Wyatt Software and as Principle Engineer in the Tektronix Computer Research Laboratory."
+    "synopsis": "Ward Cunningham served as Nike's open-data fellow. Ward co-founded the consultancy, Cunningham & Cunningham, Inc. He has served as CTO of CitizenGlobal and AboutUs, as Director of the Eclipse Foundation, an Architect in Microsoft's Patterns & Practices Group, the Director of R&D at Wyatt Software and as Principle Engineer in the Tektronix Computer Research Laboratory.",
+    "links": {
+      "federated-wiki": "a8f09cf6aa8c9ced"
+    }
   },
   {
     "slug": "welcome-visitors",
     "title": "Almereyda-Wiki",
     "date": 1483373025229,
-    "synopsis": "[[Perpetual Beta]]"
+    "synopsis": "[[Perpetual Beta]]",
+    "links": {
+      "perpetual-beta": "94b0a84453212463",
+      "allmendeio": "06ae8361ce579c5d",
+      "tenement-yard": "d96535c14038ec85",
+      "get-iplayer": "c051133b62689d2b",
+      "ubuntu": "c051133b62689d2b",
+      "how-to-wiki": "ee416d431ebf4fb4",
+      "recent-changes": "ee416d431ebf4fb4",
+      "local-editing": "ee416d431ebf4fb4",
+      "trash": "ee416d431ebf4fb4",
+      "welcome-visitors": "1985799cd6c7309c",
+      "ward-cunningham": "51fea0e140246bd3",
+      "learn-wiki-by-doing-wiki": "51fea0e140246bd3",
+      "smallest-federated-wiki": "d635dcc003871171"
+    }
   },
   {
     "slug": "welcome-visitors-alt",
     "title": "Welcome Visitors",
     "date": 1355532626481,
-    "synopsis": "Welcome to the [[Smallest Federated Wiki]]. You may be seeing this page because you have just entered a wiki of your own. If so, you have three things to do before you go on."
+    "synopsis": "Welcome to the [[Smallest Federated Wiki]]. You may be seeing this page because you have just entered a wiki of your own. If so, you have three things to do before you go on.",
+    "links": {
+      "smallest-federated-wiki": "7b56f22a4b9ee974",
+      "almereyda-wiki": "63ad2e58eecdd9e5"
+    }
   }
 ]
